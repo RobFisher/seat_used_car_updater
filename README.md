@@ -18,6 +18,6 @@ have come back.
 
 A CSV file of the current search results will be in `cars.csv`.
 
-All the history is stored in `cars_history.csv` so you will never completely lose a car even if it
+All the history is stored in `cars_history` so you will never completely lose a car even if it
 disappears from the search results.
 
